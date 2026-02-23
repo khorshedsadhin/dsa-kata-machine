@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# User-local config (customize without affecting git history)
+ligma.config.js
+
+# Stats / generated data
+stats.json
+
+# Environment files
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Coverage
+coverage/
+
+# Generated practice day folders
+src/day*/
+config.bat
